@@ -1,0 +1,24 @@
+body {
+    margin: 1%;
+    text-align: center;
+}
+
+#space {
+    
+    padding: 10px;
+    margin: 10px;
+}
+
+#mini {
+    padding: 10px;
+    margin: 10px;
+}
+
+#icons {
+    display: inline;
+    padding: 30px;
+}
+
+span {
+    display: inline-block;
+}
